@@ -1,14 +1,12 @@
+import React from "react";
+import Drink from "../src/Components/Drink";
 
-import './App.css';
 
-function App() {
-  <>
-  
-  
-  
-  
-  
-  </>
-}
+
+const App = () => {
+  return (
+    <Drink />
+  );
+};
 
 export default App;
